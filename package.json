@@ -1,0 +1,26 @@
+{
+  "name": "f-express",
+  "version": "1.0.0",
+  "description": "API usando express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angel-Hernandez-Contreras/F-Express.git"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "Angel Roman Hernandez Contreras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Angel-Hernandez-Contreras/F-Express/issues"
+  },
+  "homepage": "https://github.com/Angel-Hernandez-Contreras/F-Express#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}
